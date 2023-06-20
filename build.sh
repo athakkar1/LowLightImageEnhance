@@ -1,0 +1,1 @@
+g++ -g dehazer.cpp -I /mingw64/include/opencv4 `pkg-config --libs opencv4`
